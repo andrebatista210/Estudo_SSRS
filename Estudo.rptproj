@@ -61,6 +61,7 @@
     <Report Include="04_Tbl_Filmes_DSS.rdl" />
     <Report Include="05_CotrolandoNumeroLinhasPagina.rdl" />
     <Report Include="06_Agrupando.rdl" />
+    <Report Include="07_Calculos.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>
