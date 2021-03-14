@@ -60,6 +60,7 @@
     <Report Include="03-Usando_DS_diretamente.rdl" />
     <Report Include="04_Tbl_Filmes_DSS.rdl" />
     <Report Include="05_CotrolandoNumeroLinhasPagina.rdl" />
+    <Report Include="06_Agrupando.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>
