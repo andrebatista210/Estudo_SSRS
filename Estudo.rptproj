@@ -58,6 +58,7 @@
     <Report Include="01_Basico.rdl" />
     <Report Include="02_DataSet_Nome_FIlme_com_Shered_CDC.rdl" />
     <Report Include="03-Usando_DS_diretamente.rdl" />
+    <Report Include="04_Tbl_Filmes_DSS.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>
