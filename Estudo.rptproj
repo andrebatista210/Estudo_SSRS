@@ -62,6 +62,7 @@
     <Report Include="05_CotrolandoNumeroLinhasPagina.rdl" />
     <Report Include="06_Agrupando.rdl" />
     <Report Include="07_Calculos.rdl" />
+    <Report Include="08_Condicional.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>
